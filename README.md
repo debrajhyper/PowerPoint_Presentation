@@ -1,5 +1,6 @@
 # PowerPoint Presentation
-    This repo contains awesome ppts which will help you to understand the complex technologies or systems in a more simpler way.
+    This repo contains awesome ppts which will help you to understand 
+    the complex technologies or systems in a more simpler way.
 
 <br>
 <br>
@@ -18,7 +19,9 @@
   <img src="assets/Screenshot (93).png" width="200">
   <img src="assets/Screenshot (94).png" width="200">
   <img src="assets/Screenshot (97).png" width="200">
+  <img src="assets/Screenshot (99).png" width="200">
   <img src="assets/Screenshot (98).png" width="200">
   <img src="assets/Screenshot (95).png" width="200">
+  <img src="assets/Screenshot (100).png" width="200">
   <img src="assets/Screenshot (96).png" width="200">
 </p>
